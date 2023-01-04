@@ -13,7 +13,9 @@
   
 <h1 align="center">📫 How to reach me:</h3>
 <p align="left">
-<h3 align="left"><a href="https://www.linkedin.com/in/peace-issa-190ab5b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bamidele-adefolaju" height="30" width="40" /></a>  <h3 align="left"><a href="https://www.twitter.com/peaceissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bamidele-adefolaju" height="30" width="40" /></a> <h3 align="left"><a href="https://www.instagram.com/iss_apeace/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bamidele-adefolaju" height="30" width="40" /></a>
+<h3 align="left"><a href="https://www.linkedin.com/in/peace-issa-7a9182234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peaceissa" height="30" width="40" /></a>  <h3 align="left"><a href="https://www.twitter.com/peaceissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peaceissa" height="30" width="40" /></a>
+<h3 align="left">
+<a href="https://www.instagram.com/iss_apeace/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peaceissa" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
