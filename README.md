@@ -4,7 +4,7 @@
 
 <h3 align="left">Interests:</h3>
 
-- 👀 I’m interested in Programming, Cloud computing and Artificial Intelligence.
+- 👀 I’m interested in Programming, Machine learning, quatum computing, Cloud computing and Artificial Intelligence.
 - 🌱 I’m currently learning Software Engineering at ALX- Africa
 - 💞️ I’m looking to collaborate on Product Design UI/UX, Web Development, Object Oriented Design, Mobile app development, Data Science, Data Analytics and AI
 - 📫 How to reach me @peaceissa on Twitter, @iss_apeace on Instagram
